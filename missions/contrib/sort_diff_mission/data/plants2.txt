@@ -1,19 +1,19 @@
+    Ivy
     Rose
-    Sunflower
-    Tulip
     Orchid
-    Daisy
-    Lavender
+    Hydrangea
     Fern
     Aloe Vera
     Bamboo
+    Sunflower
     Cactus
+    Tulip
+    Daisy
     Jasmine
     Marigold
     Poinsettia
     Maple
-    Ivy
+    Lavender
     Venus Flytrap
-    Hydrangea
-    Peony
     Eucalyptus
+    Peony
